@@ -1,0 +1,104 @@
+Holiday Card Instructions:  
+
+There are many different shapes and sizes that people use for making holiday cards.  In this exercise, we will be creating a holiday card to be printed from a standard printer, using 8.5" x 11" paper.  This size of paper is called US Letter.
+
+We will start by creating a blank 8" x 10" image.  The reason the image is smaller than paper is because most printers have to grab onto the sides to move the paper through the machine, leaving area's on the sides where we cannot print onto.  This area is called Margin.
+
+
+Step 1:
+Create a new image with the following details:
+  Name:        Holiday Card
+  Width:       8 inches
+  Height:      10 inches
+  Orientation: Portrait
+  Resolution:  300 Pixels/Inch
+  RBG Mode:    CMYK color 16-bit
+  Background Contents:  Transparent
+
+
+The top half will be the outside and the bottom half will be the inside of the card, when it is folded at the end.
+
+Step 2:
+Create a new guide layout:
+  Columns:
+    Number:  2
+  Rows:
+    Number:  2
+
+
+Step 3a:
+Create a solid color layer for the top half of the card.  
+Name the layer:  Outside Color
+
+Step 3b:
+Create a solid color layer for the bottom half of the card.
+Name the layer:  Inside Color
+
+Step 3c:  Use the Rectangular Marquee Tool to select the bottom half of the image (use the guide lines to help you)
+
+Step 3d:  Select the layer mask for the Outside Color.
+
+Step 3e:  Use the Brush Tool with Black as the foreground color to paint the bottom half the layer mask black.
+
+
+
+We will now update the guide layout to help us make our card around the creases in the paper.
+
+Step 4a:  
+Clear Guides
+
+Step 4b:
+Create a new guide layout:
+  Columns:
+    Number:  2
+    Gutter:  0.025 in
+  Rows:
+    Number:  2
+    Gutter:  0.025 in
+
+
+
+Each quadrent of the image correlates to one of the sides of your card, with:
+
+Top Left:  Front face of the card.  This is the side which usually says a greeting, as it is the first thing they should see.  This section will be up-side down in the end.
+
+Top Right: Back of the card.  Put a small mark on the bottom to indicate you made it yourself.  This section will be up-side down in the end.  
+
+Bottom Left:  The left inside of the card.  This is usually used for writing and/or photos.  This is a good place to put a photo collage, poem, or a beautiful design.  
+
+Bottom Right:  The main inside page of the card.  Here is where you will give your heart-felt holiday greetings to your friends and family.  Make sure to end it with a complimentary close but to sign it with pen after it is printed.
+
+Remember that you can rotate the image by going to Image (in the menu bar), then Image Rotation, then 180°.
+
+
+We will now create groups for each side to help us keep everything organized.  Keep the groups organized based on steps 5a-5d.
+
+Step 5a:  Create a group called Cover.
+
+Step 5b:  Create a group and name it Inner-Left.
+
+Step 5c:  Create a new group and call it Inner-Right.
+
+Step 5d:  Create the last group and name it Backside.
+
+
+
+Now we will create the front and back of the card first.
+
+Step 6:  Rotate the image
+In the menu bar click Image, then hover over "Image Rotation", and click 180°.
+
+Step 7:  Fill in the bottom two quadrents.  Remember that now the bottom right is the cover and bottom left is the backside.  Keep the backside simple, but make sure to give it a small and subtle signature.  Make sure to have a cordial greeting on the front, such as:  Happy Holidays!
+
+
+
+Additional Resources:
+There are alot of videos on YouTube and articles online for how to make a holiday card in Photoshop.  
+If you need idea's for how to fill in your card then try searching:  
+"Photoshop; Holiday Card"
+
+
+https://www.youtube.com/watch?v=Gm8OSbZSz9U
+https://www.youtube.com/watch?v=dbRzQ4np0vA
+https://www.youtube.com/watch?v=ISA_5oeARHQ
+https://www.youtube.com/watch?v=YG18KhqfDik

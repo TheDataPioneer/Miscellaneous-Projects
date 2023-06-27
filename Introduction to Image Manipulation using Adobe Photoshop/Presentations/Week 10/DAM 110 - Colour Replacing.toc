@@ -1,0 +1,17 @@
+\beamer@sectionintoc {1}{Blur and Sharpen Tools}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Blur Tool}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Blur Tool Example}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Sharpen Tool}{4}{0}{1}
+\beamer@subsectionintoc {1}{4}{Sharpen Tool Example}{5}{0}{1}
+\beamer@sectionintoc {2}{Smudge Tool}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Smudge Tool}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Smudge Tool Example}{7}{0}{2}
+\beamer@sectionintoc {3}{Dodge and Burn Tools}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{Dodge Tool}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{Dodge Tool Example}{9}{0}{3}
+\beamer@subsectionintoc {3}{3}{Burn Tool}{10}{0}{3}
+\beamer@subsectionintoc {3}{4}{Burn Tool Example}{11}{0}{3}
+\beamer@sectionintoc {4}{Sponge Tool}{12}{0}{4}
+\beamer@subsectionintoc {4}{1}{Sponge Tool}{12}{0}{4}
+\beamer@subsectionintoc {4}{2}{Sponge Tool Example}{13}{0}{4}
+\beamer@subsectionintoc {5}{1}{Destructive Edits}{14}{0}{4}

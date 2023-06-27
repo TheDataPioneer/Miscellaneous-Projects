@@ -1,0 +1,9 @@
+websites:
+
+week 3:
+Fill & Adjustment:
+https://helpx.adobe.com/photoshop/using/adjustment-fill-layers.html
+Text:
+https://helpx.adobe.com/photoshop/using/add-edit-text.html
+Layer Styles:
+https://helpx.adobe.com/photoshop/using/layer-effects-styles.html

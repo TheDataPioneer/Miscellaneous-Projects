@@ -1,0 +1,11 @@
+\beamer@subsectionintoc {1}{1}{Lecture Topics}{2}{0}{0}
+\beamer@sectionintoc {2}{Blur and Sharpening Tools}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Blur and Sharpening Tools}{3}{0}{1}
+\beamer@sectionintoc {3}{Photo Correction}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Photo Correction}{4}{0}{2}
+\beamer@sectionintoc {4}{Restorations}{5}{0}{3}
+\beamer@subsectionintoc {4}{1}{Restorations}{5}{0}{3}
+\beamer@sectionintoc {5}{Touch-Ups}{6}{0}{4}
+\beamer@subsectionintoc {5}{1}{Touch-Ups}{6}{0}{4}
+\beamer@subsectionintoc {6}{1}{Weekly Exercises}{7}{0}{4}
+\beamer@subsectionintoc {6}{2}{Assignment}{8}{0}{4}

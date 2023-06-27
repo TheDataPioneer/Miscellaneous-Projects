@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Levels Adjustment Layer}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Levels Adjustment Layer}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Clipping}{3}{0}{1}
+\beamer@sectionintoc {2}{Curves Adjustment Layer}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Curves Adjustment Layer}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Masks}{5}{0}{2}
+\beamer@sectionintoc {3}{Auto Correction Options}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Auto Correction Options}{6}{0}{3}
+\beamer@sectionintoc {4}{Adobe Bridge and Camera Raw}{8}{0}{4}
+\beamer@subsectionintoc {4}{1}{Adobe Bridge and Camera Raw}{8}{0}{4}

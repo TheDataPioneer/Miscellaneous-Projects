@@ -1,0 +1,22 @@
+\beamer@subsectionintoc {1}{1}{Photo Corrections}{2}{0}{0}
+\beamer@sectionintoc {2}{Camera Raw Filter}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Filter}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Example}{4}{0}{1}
+\beamer@subsectionintoc {2}{3}{Options}{5}{0}{1}
+\beamer@sectionintoc {3}{Adaptive Wide Angle Filter}{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{Filter}{6}{0}{2}
+\beamer@subsectionintoc {3}{2}{Example}{7}{0}{2}
+\beamer@subsectionintoc {3}{3}{Options}{8}{0}{2}
+\beamer@subsectionintoc {3}{4}{Resources}{10}{0}{2}
+\beamer@sectionintoc {4}{Lens Correction Filter}{11}{0}{3}
+\beamer@subsectionintoc {4}{1}{Distortions}{11}{0}{3}
+\beamer@subsectionintoc {4}{2}{Filter}{12}{0}{3}
+\beamer@subsectionintoc {4}{3}{Example}{13}{0}{3}
+\beamer@subsectionintoc {4}{4}{Options}{14}{0}{3}
+\beamer@subsectionintoc {4}{5}{Resources}{16}{0}{3}
+\beamer@sectionintoc {5}{Vanishing Point Filter}{17}{0}{4}
+\beamer@subsectionintoc {5}{1}{Filter}{17}{0}{4}
+\beamer@subsectionintoc {5}{2}{Example}{18}{0}{4}
+\beamer@subsectionintoc {5}{3}{Options}{19}{0}{4}
+\beamer@subsectionintoc {5}{4}{Resources}{21}{0}{4}
+\beamer@subsectionintoc {6}{1}{Destructive Edits}{22}{0}{4}

@@ -1,0 +1,12 @@
+\beamer@subsectionintoc {1}{1}{Lecture Topics}{2}{0}{0}
+\beamer@sectionintoc {2}{Clone Stamp Tools}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Clone Stamp Tools}{3}{0}{1}
+\beamer@sectionintoc {3}{Healing Brushes}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Healing Brushes}{4}{0}{2}
+\beamer@sectionintoc {4}{History Brushes}{5}{0}{3}
+\beamer@subsectionintoc {4}{1}{History Brushes}{5}{0}{3}
+\beamer@sectionintoc {5}{Restorations}{6}{0}{4}
+\beamer@subsectionintoc {5}{1}{Restorations}{6}{0}{4}
+\beamer@subsectionintoc {6}{1}{Weekly Exercises}{7}{0}{4}
+\beamer@subsectionintoc {6}{2}{Assignment}{8}{0}{4}
+\beamer@subsectionintoc {6}{3}{Discussion}{9}{0}{4}

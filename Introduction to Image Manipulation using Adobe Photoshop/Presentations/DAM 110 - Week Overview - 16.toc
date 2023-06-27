@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Overview}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Lecture Topics}{2}{0}{1}
+\beamer@sectionintoc {2}{Lecture Topics}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Skills}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Professions}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{Resume and Cover Letter}{5}{0}{2}
+\beamer@sectionintoc {3}{Exercises, Assignments and Discussion}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Weekly Exercises}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Discussion}{7}{0}{3}

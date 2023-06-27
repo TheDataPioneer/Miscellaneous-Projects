@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{What is Glass Glare?}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is Glass Glare?}{2}{0}{1}
+\beamer@sectionintoc {2}{How to remove Glass Glare}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{How to remove Glass Glare}{3}{0}{2}
+\beamer@sectionintoc {3}{Example}{4}{0}{3}
+\beamer@subsectionintoc {3}{1}{Example}{4}{0}{3}
+\beamer@sectionintoc {4}{Resources}{5}{0}{4}
+\beamer@subsectionintoc {4}{1}{Additional Resources for the Glass Glare}{5}{0}{4}

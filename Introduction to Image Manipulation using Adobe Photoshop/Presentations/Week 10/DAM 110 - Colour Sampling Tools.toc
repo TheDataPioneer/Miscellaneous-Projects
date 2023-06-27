@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Foreground \& Background Colors}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Foreground \& Background Colors}{2}{0}{1}
+\beamer@sectionintoc {2}{Manually Choosing Colors}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Color Panel}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Swatches Panel}{4}{0}{2}
+\beamer@sectionintoc {3}{Color Sampling Tools}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Eye Dropper Tool}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Color Sampler Tool}{6}{0}{3}
+\beamer@sectionintoc {4}{Color Picker}{7}{0}{4}
+\beamer@subsectionintoc {4}{1}{Color Picker}{7}{0}{4}

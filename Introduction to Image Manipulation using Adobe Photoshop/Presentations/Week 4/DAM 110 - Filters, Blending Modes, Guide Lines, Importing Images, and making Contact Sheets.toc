@@ -1,0 +1,22 @@
+\beamer@subsectionintoc {1}{1}{Table of Contents - Week 4}{2}{0}{0}
+\beamer@sectionintoc {2}{Filters}{8}{0}{1}
+\beamer@subsectionintoc {2}{1}{What are Filters?}{9}{0}{1}
+\beamer@subsectionintoc {2}{2}{How to use Filters}{11}{0}{1}
+\beamer@subsectionintoc {2}{3}{Smart Filters}{12}{0}{1}
+\beamer@sectionintoc {3}{Blending Modes}{14}{0}{2}
+\beamer@subsectionintoc {3}{1}{What are Blending Modes?}{15}{0}{2}
+\beamer@subsectionintoc {3}{2}{How to Apply Blending Modes}{16}{0}{2}
+\beamer@subsectionintoc {3}{3}{Blending Modes Descriptions}{17}{0}{2}
+\beamer@sectionintoc {4}{Crop Tool \& Importing Images}{28}{0}{3}
+\beamer@subsectionintoc {4}{1}{Importing Images}{29}{0}{3}
+\beamer@subsectionintoc {4}{2}{Crop Tool}{31}{0}{3}
+\beamer@subsectionintoc {4}{3}{Perspective Crop Tool}{34}{0}{3}
+\beamer@sectionintoc {5}{Guide Lines \& Workspace}{35}{0}{4}
+\beamer@subsectionintoc {5}{1}{What are Guide Lines?}{36}{0}{4}
+\beamer@subsectionintoc {5}{2}{How to access Guides?}{37}{0}{4}
+\beamer@subsectionintoc {5}{3}{Ruler}{39}{0}{4}
+\beamer@subsectionintoc {5}{4}{Snap/Snap to}{41}{0}{4}
+\beamer@subsectionintoc {5}{5}{Workspace}{42}{0}{4}
+\beamer@sectionintoc {6}{Contact Sheets}{45}{0}{5}
+\beamer@subsectionintoc {6}{1}{How to make a contact sheet}{46}{0}{5}
+\beamer@subsectionintoc {7}{1}{End Card}{48}{0}{5}

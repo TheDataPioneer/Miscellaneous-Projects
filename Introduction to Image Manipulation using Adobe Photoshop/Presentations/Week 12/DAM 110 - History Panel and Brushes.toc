@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Liquify Filter}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is the Liquify Filter?}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{How to use the Liquify FIlter}{3}{0}{1}
+\beamer@sectionintoc {2}{Examples}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Bloat Tool}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Pucker Tool}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Face-Aware Liquify}{8}{0}{2}
+\beamer@sectionintoc {3}{Options}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Face-Aware Liquify}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Distortion Tools}{11}{0}{3}

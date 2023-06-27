@@ -1,0 +1,16 @@
+\beamer@subsectionintoc {1}{1}{Lecture Topics}{2}{0}{0}
+\beamer@sectionintoc {2}{How Digital Cameras Work}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{How Human Eyes Work}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{How Film Cameras Work}{4}{0}{1}
+\beamer@subsectionintoc {2}{3}{How Digital Cameras Work}{5}{0}{1}
+\beamer@sectionintoc {3}{Lens Flare}{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{What is Lens Flare?}{6}{0}{2}
+\beamer@subsectionintoc {3}{2}{How to Avoid Lens Flare}{7}{0}{2}
+\beamer@subsectionintoc {3}{3}{Working with Lens Flare}{8}{0}{2}
+\beamer@sectionintoc {4}{Glass Glare}{10}{0}{3}
+\beamer@subsectionintoc {4}{1}{What is Glass Glare?}{10}{0}{3}
+\beamer@subsectionintoc {4}{2}{How to fix Glass Glare}{11}{0}{3}
+\beamer@sectionintoc {5}{Weekly Practice}{12}{0}{4}
+\beamer@subsectionintoc {5}{1}{Weekly Exercises}{12}{0}{4}
+\beamer@subsectionintoc {5}{2}{Assignment}{13}{0}{4}
+\beamer@subsectionintoc {5}{3}{Discussion}{14}{0}{4}

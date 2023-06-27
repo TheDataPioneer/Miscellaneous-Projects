@@ -1,0 +1,23 @@
+\beamer@subsectionintoc {1}{1}{Table of Contents - Week 3}{2}{0}{0}
+\beamer@sectionintoc {2}{Creating a New Project}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{How to Create a new Photoshop Project}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Setting up a new Photoshop Project}{5}{0}{1}
+\beamer@sectionintoc {3}{Fill and Adjustment Layers}{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{How to Create Fill and Adjustment Layers}{7}{0}{2}
+\beamer@subsectionintoc {3}{2}{Fill Layers}{8}{0}{2}
+\beamer@subsectionintoc {3}{3}{Adjustment Layers}{14}{0}{2}
+\beamer@sectionintoc {4}{Type Tool}{18}{0}{3}
+\beamer@subsectionintoc {4}{1}{What is the Type Tool}{19}{0}{3}
+\beamer@subsectionintoc {4}{2}{Type Tool}{20}{0}{3}
+\beamer@subsectionintoc {4}{3}{Type Mask Tool}{21}{0}{3}
+\beamer@subsectionintoc {4}{4}{Editing Text}{22}{0}{3}
+\beamer@sectionintoc {5}{Layer Styles}{25}{0}{4}
+\beamer@subsectionintoc {5}{1}{What are Blending Options?}{26}{0}{4}
+\beamer@subsectionintoc {5}{2}{How to access Blending Options?}{27}{0}{4}
+\beamer@subsectionintoc {5}{3}{What do they do?}{28}{0}{4}
+\beamer@subsectionintoc {5}{4}{Show/Hide Effects}{29}{0}{4}
+\beamer@subsectionintoc {5}{5}{Copy/Paste Effects}{32}{0}{4}
+\beamer@sectionintoc {6}{The Snipping Tool}{33}{0}{5}
+\beamer@subsectionintoc {6}{1}{What is the Snipping Tool}{34}{0}{5}
+\beamer@subsectionintoc {6}{2}{How to use the Snipping Tool}{35}{0}{5}
+\beamer@subsectionintoc {7}{1}{End Card}{36}{0}{5}

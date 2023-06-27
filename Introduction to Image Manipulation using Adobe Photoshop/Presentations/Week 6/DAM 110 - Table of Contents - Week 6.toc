@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Announcements}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Opening Lab Earlier}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{College Day}{3}{0}{1}
+\beamer@sectionintoc {2}{Lecture Topics}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Lecture Topics}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Colour Sampling Tools}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{Colour Correction}{6}{0}{2}
+\beamer@subsectionintoc {2}{4}{Replacing Colours}{7}{0}{2}
+\beamer@subsectionintoc {2}{5}{Visual Design Principles}{8}{0}{2}
+\beamer@sectionintoc {3}{Assignments}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Weekly Exercises}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Assignment}{10}{0}{3}
+\beamer@sectionintoc {4}{Discussion}{11}{0}{4}
+\beamer@subsectionintoc {4}{1}{Readings \& Videos}{11}{0}{4}
+\beamer@subsectionintoc {4}{2}{Research Topics}{12}{0}{4}
+\beamer@subsectionintoc {5}{1}{End Card}{13}{0}{4}

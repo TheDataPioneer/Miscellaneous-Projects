@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Design Principles}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Design Principles}{2}{0}{1}
+\beamer@sectionintoc {2}{8 Basic Design Principles}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{8 Basic Design Principles}{3}{0}{2}
+\beamer@sectionintoc {3}{10 Photographers Design Principles}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{10 Photographers Design Principles}{6}{0}{3}

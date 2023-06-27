@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Skills}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{What do you need?}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{What skills are useful?}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{What skills are good everywhere?}{4}{0}{1}
+\beamer@sectionintoc {2}{Professions}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Main Career Types}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Career Details}{7}{0}{2}
+\beamer@sectionintoc {3}{Resources}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Additional Resources}{13}{0}{3}

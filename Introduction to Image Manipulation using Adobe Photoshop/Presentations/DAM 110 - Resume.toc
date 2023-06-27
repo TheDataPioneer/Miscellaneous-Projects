@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{What is a Resume?}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is a Resume?}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Resume Topics}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Classic Example}{5}{0}{1}
+\beamer@sectionintoc {2}{Writing your resume}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{How to write your Resume}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Length of Resume}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{2nd Resume Page Example}{8}{0}{2}
+\beamer@sectionintoc {3}{Resources}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Additional Resources for the TOPIC}{9}{0}{3}

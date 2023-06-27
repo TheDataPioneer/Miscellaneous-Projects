@@ -1,0 +1,10 @@
+\beamer@subsectionintoc {1}{1}{Lecture Topics}{2}{0}{0}
+\beamer@sectionintoc {2}{Liquify Filter}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Liquify Filter}{3}{0}{1}
+\beamer@sectionintoc {3}{Transform Warps}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Transform Warps}{4}{0}{2}
+\beamer@sectionintoc {4}{Ethics}{5}{0}{3}
+\beamer@subsectionintoc {4}{1}{Ethics}{5}{0}{3}
+\beamer@subsectionintoc {5}{1}{Weekly Exercises}{6}{0}{3}
+\beamer@subsectionintoc {5}{2}{Assignment}{7}{0}{3}
+\beamer@subsectionintoc {5}{3}{Discussion}{8}{0}{3}

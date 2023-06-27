@@ -1,0 +1,374 @@
+DAM 110 Outline and Schedule:
+
+
+Week 1:  
+Introduction to Photoshop and Bridge
+
+Welcome to the class
+Syllabus Quiz
+
+Adobe Photoshop interface
+Adobe Bridge interface
+
+Discussion #1:  Watch and comment on videos about photoshop and bridge.  Research from a list of topics.
+
+
+
+Week 2:  
+Layers, Transform, Zoom, and Move Tools.
+
+Layers Panel
+Creating a new Layer
+Renaming Layers
+Stack Order
+Groups
+Opacity
+Fill
+Layer Hiding/Revealing
+Locking Layers
+Transform Tool
+Zoom Tool
+Move Tool
+Hand Tool
+Transform Tools
+File Formats
+Exporting as PNG
+
+
+
+Week 3:  
+Text, Styles, Fill and Adjustment Layers
+
+Creating new Photoshop Project
+Fill Layers
+Adjustment Layers
+Type Tools
+Blending Options
+Layer Options
+The Snipping Tool
+
+
+
+
+Week 4:  
+Filters, Blending Modes, Guide Lines, Workspaces, Importing Images, and Contact Sheets.
+
+Filters
+Smart Filters
+Smart Objects
+
+Blending Modes
+
+Importing Images
+Crop Tool
+Perspective Crop Tool
+
+Guide Lines
+Rulers (view menu)
+Snap/Snap-To
+Using CTRL to not lock into place.
+
+Duplicate Layers
+
+Arranging Windows
+Transfering Layers between projects
+
+How to make a contact sheet (menu bar:  File - Automate - Contact Sheet II...)
+
+Weekly Exercises #3:  Import 4 Images, Duplicate Layers, Apply a filter, smart filter and blending mode.  Crop 1 image to change its meaning.  Create a contact sheet. 
+
+Assignment -  Photo Collage 
+
+
+
+
+Week 5:  
+Selection, Marquee, Brush, and Eraser Tools.  File Organization
+
+Lasso Tool
+Polygonal Lasso Tool
+Magnetic Lasso Tool
+
+Magic Wand Tool
+Object Selection Tool
+Quick Selection Tool
+Select Subject
+
+Rectangular Marquee Tool
+Elliptical Marquee Tool
+Single Row Marquee Tool
+Single Column Marquee Tool
+
+Eraser Tool
+Background Eraser Tool
+Magic Eraser Tool
+
+Brush Tool
+Pencil Tool
+
+Inverting Selection
+
+How to Organize files
+
+Assignment - Headswap Assignment  
+
+
+
+
+Week 6 - 
+Masks, Feathering, Gradient and Paint Bucket Tools, and Resolution.
+
+Masks
+Select and Mask
+Quick Mask
+Ctrl+Click on mask to select it
+
+Gradient Tool
+Gradient Editor
+Paint Bucket Tool
+
+Borders
+
+Feathering
+
+Resolution
+Pixels Per Inch
+Image Size
+Canvas Size
+
+Assignment - Painting 
+
+
+
+Week 7 -   
+Color Modes, Shapes and the Pen Tool
+
+Rectangular Tool
+Rounded Rectangular Tool
+Ellipse Tool
+Polygon Tool
+Line Tool
+Custom Shape Tool
+
+Pen Tool
+Freeform Pen Tool
+Curvature Pen Tool
+
+Add Anchor Point Tool
+Delete Anchor Point Tool
+
+Convert Point Tool
+Path Selection Tool
+Direct Selection Tool
+
+Color Mode (RGB, CMYK, Greyscale, etc)
+Color Channels bits
+
+Assignment #5:  Lecture Topics
+Midterm Project Assigned
+
+
+
+Week 8 - Portfolio Site and Watermarks.
+
+Midterm Examinations
+Midterm Project Lab
+
+Watermark
+Wordpress Portfolio Site
+PDF Presentation
+
+make a digital signature in photoshop:
+https://youtube.com/shorts/aCYFDPdNM50
+
+Assignment #7:  Make a watermark and site
+
+
+
+Week 9 - 
+Black & White, Colour Theory, Gamuts and Composition.
+
+Midterm Projects Due
+
+Black & White
+Channels Panel
+Color Range
+GreyScale
+
+Composition
+
+
+Gamuts
+Gamut Warning
+Colour Theory
+RGB / CMYK / Greyscale
+Change color mode (Menu Bar: Image - Mode)
+
+Exercises:  Make an image black and white using channels, adjustment layer, color range, etc
+
+
+
+Week 10 - 
+Visual Design Principles, Colour Correction, Replacing Colours.
+
+The elements and principles of visual design and composition: Leading Lines, Texture, Color/Contrast, Negative Space, Point of View, Balance, Strong Focal Point, Repetition, etc.
+
+Hue/Saturation
+Curves
+Levels
+
+Eyedropper Tool
+Color Sampler Tool
+Color Replacement Tool
+
+Color Correction
+
+Exercises:  
+Colour Correct a photo, 
+Key colour another photo.  
+
+Discussion:
+https://uxplanet.org/8-essential-visual-principles-explained-6d52c519798e?gi=e6bd00910f92
+https://www.youtube.com/watch?v=uFat6ftzR_0
+https://www.youtube.com/watch?v=WvVonq05ahE
+Eyedropper Tool
+Color Sampler Tool
+Tone
+Contrast
+Hue
+Saturation
+Levels adjustment layer
+Curves adjustment layer
+
+Tonality Assignment
+
+
+
+
+Week 11 - 
+Photo Corrections, Retouching, & Restoration.  
+
+Patch Tool
+Content-Aware Move Tool
+Red Eye Tool
+
+Blur Tool
+Sharpen Tool
+Smudge Tool
+Dodge Tool
+Burn Tool
+Sponge Tool
+
+Camera Raw Filter
+Adaptive Wide Angle Filter
+Lens Correction Filter
+Vanishing Point Filter
+
+Weekly Assignment #11 - Lecture Topics
+
+Touch-Up and Restoration Assignment
+
+
+
+Week 12 - History, Stamp and Brush Tools, and Sharpening.
+
+History Panel
+History Brush Tool
+Art History Brush Tool
+
+Clone Stamp Tool
+Clone Pattern Stamp Tool
+
+Spot Healing Brush Tool
+Healing Brush Tool
+
+
+
+
+Week 13 - Manipulating Images with Warps and Filters
+
+Liquify Filter
+Puppet Warp
+Smudge Tool
+
+Ruler Tool
+Count Tool
+Note Tool
+
+Import Video Frames to Layers
+
+Discussion #13:  Watch videos on Camera Raw and Lightroom.
+
+Assignment #12:  Convert a video to frames, extract a single layer, then modify it somehow.  Turn a frown into a smile, or visa versa.   Basic image correction in lightroom.  Develop a .dng in camera raw.
+
+
+
+Week 14 - Careers and Professions.
+
+Final Projects Assigned
+
+Jobs, Careers, Gigs and Professions which use Photoshop & related skills.
+Commercial Printers and Publishing
+Web Publishing
+Fine Art
+Graphic Arts
+Advertising
+
+Discussion #14:  Watch videos about making money with photoshop and Graphic Design Jobs.
+
+Assignment #14:  Make a resume and cover letter. 
+
+
+
+Week 15 - 
+Thanksgiving Break and Holiday Card
+
+Holiday Card (Extra Credit)
+
+
+
+Week 16 - 
+How Digital Cameras Work 
+
+Final Projects Lab Time
+
+Demonstrate and comprehend the technical components of digital cameras and software programs to
+effectively photograph and utilize digital enhancements with visual literacy.
+
+PDF slideshow
+
+Discussion #16:  Watch videos about how digital cameras work.
+
+Assignment #14:  make a pdf slideshow
+
+
+
+Week 17 - 
+Final Presentations and Exam
+
+Final Project Presentations
+Final Examinations
+
+
+
+Feathering
+Soft Edge
+Creating edge effects
+You can use various techniques to treat the edges of an effect applied to only part of an image. To leave a distinct edge, simply apply the filter. For a soft edge, feather the edge, and then apply the filter. For a transparent effect, apply the filter, and then use the Fade command to adjust the selection’s blending mode and opacity.
+
+Applying filters to individual channels
+You can apply a filter to an individual channel, apply a different effect to each color channel, or apply the same filter but with different settings.
+
+Frame Tool
+
+Slice Tool
+Slice Select Tool
+
+
+Select/Deselect All Layers
+
+https://www.youtube.com/shorts/bMQ2fTaAHro
+
+
+
+
