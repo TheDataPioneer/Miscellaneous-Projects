@@ -1,0 +1,199 @@
+# Seedbox setup using Ubuntu 22 CLI
+
+I recommend using OVH for your seedbox.
+You can rent a remote server in canada or france for only $6-11 per month.  
+(You may have to check their servers listings everyday for a week plus to snag a cheap server, as they sell out fast)
+If you are in the USA, make sure to make an account with us.ovhcloud.com before purchasing your server.
+
+Info about my setup for this guide:
+deluge: 2.1.1
+libtorrent: 2.0.5.0
+Python: 3.10.6
+OS:    Linux Ubuntu 22.04.2 LTS Jammy Jellyfish
+Date:  19-April-2023
+CPU:   Intel ATOM N2800 - 2c/4t - 1.86 GHz
+RAM:   4 GB 1066 MHz
+HDD:   1×1 TB HDD SATA
+
+
+Initial Setup of Deluge:
+
+sudo add-apt-repository ppa:deluge-team/stable
+sudo apt update
+sudo apt full-upgrade -y
+sudo apt install deluge -y
+sudo useradd -r -m -d /var/lib/deluge -s /usr/sbin/nologin -g deluge deluge
+sudo chown -R deluge:deluge /var/lib/deluge
+sudo apt install deluged -y
+sudo apt install deluged deluge-web -y
+sudo apt install deluged deluge-console -y
+deluged
+deluge-console
+
+At this point the deluge-console should open and showing localhost as Online.
+Select the localhost (press enter), then type:
+l
+config -s allow_remote True
+exit
+
+(To double-check, type:  deluge-console "config allow_remote"; it should say True)
+
+pkill deluged
+deluged
+
+
+
+The headless Deluge Daemon should now be working properly.
+Next we will add new users to sign in with the Deluge desktop app.
+
+cd .config/deluge
+sudo nano auth
+
+Add new users with the following format:  (10 means user has full access to deluge)
+     username:password:10
+
+
+
+Your remote server should now be accessable from your desktop Deluge app using the username/password you just set.
+Now we will get deluge to open on system start-up, and to restart when there is a failure.
+
+cd /etc/systemd/system
+sudo touch deluged.service
+sudo nano /etc/systemd/system/deluged.service
+
+Paste this text, then save and exit:
+[Unit]
+Description=Deluge Bittorrent Client Daemon
+Documentation=man:deluged
+After=network-online.target
+
+[Service]
+Type=simple
+User=deluge
+Group=deluge
+UMask=007
+ExecStart=/usr/bin/deluged -d
+Restart=on-failure
+# Time to wait before forcefully stopped.
+TimeoutStopSec=300
+
+[Install]
+WantedBy=multi-user.target
+
+
+sudo systemctl start deluged
+sudo systemctl enable deluged
+
+
+
+Setup of Deluge Web-UI:
+
+deluge-web --fork
+
+cd /etc/systemd/system
+sudo touch deluge-web.service
+sudo nano /etc/systemd/system/deluge-web.service
+
+Paste this text, then save and exit:
+[Unit]
+Description=Deluge Bittorrent Client Web Interface
+Documentation=man:deluge-web
+After=deluged.service
+Wants=deluged.service
+
+[Service]
+Type=simple
+UMask=027
+ExecStart=/usr/bin/deluge-web -d
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+
+sudo mkdir /etc/systemd/system/deluge-web.service.d/
+cd /etc/systemd/system/deluge-web.service.d/
+sudo touch user.conf
+sudo nano /etc/systemd/system/deluge-web.service.d/user.conf
+
+Paste this text, then save and exit:
+# Override service user
+[Service]
+User=deluge
+Group=deluge
+
+sudo systemctl enable /etc/systemd/system/deluge-web.service
+sudo systemctl start deluge-web
+sudo systemctl enable deluge-web
+
+
+
+Setup of vSFTP:  (Optional)
+
+sudo apt update
+sudo apt full-upgrade -y
+sudo apt install vsftpd -y
+sudo nano /etc/vsftpd.conf
+
+Make sure that these 3 values are set as follows:
+anonymous_enable=NO
+local_enable=YES 
+write_enable=YES 
+
+sudo service vsftpd restart
+sudo systemctl start vsftpd
+sudo systemctl enable vsftpd
+
+
+
+Setup of Service logging:  (Optional)
+
+sudo mkdir -p /var/log/deluge
+sudo chown -R deluge:deluge /var/log/deluge
+sudo chmod -R 750 /var/log/deluge
+ExecStart=/usr/bin/deluged -d -l /var/log/deluge/daemon.log -L warning
+ExecStart=/usr/bin/deluge-web -d -l /var/log/deluge/web.log -L warning
+
+sudo systemctl daemon-reload
+sudo systemctl restart deluged
+sudo systemctl restart deluge-web
+
+
+
+Install a responsive dark mode theme for Web-UI:  (Optional)
+
+pkill deluge-web
+sudo mv /usr/lib/python3/dist-packages/deluge/ui/web/icons/ /usr/lib/python3/dist-packages/deluge/ui/web/icons.bak & sudo mv /usr/lib/python3/dist-packages/deluge/ui/web/images/ /usr/lib/python3/dist-packages/deluge/ui/web/images.bak
+sudo wget -c https://github.com/joelacus/deluge-web-dark-theme/raw/main/deluge_web_dark_theme.tar.gz -O - | sudo tar -xz -C /usr/lib/python3/dist-packages/deluge/ui/web/
+sudo nano ~/.config/deluge/web.conf
+
+Change the text at the bottom to:
+"theme": "dark"
+
+
+(If a file called web.conf~ exists, delete it. This will overwrite web.conf when deluge-web is restarted.)
+
+sudo nano /usr/lib/python3/dist-packages/deluge/ui/web/index.html
+
+Add the following meta tag on the empty line 19 in the header:
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+
+deluge-web
+
+
+
+________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
+
+
+**References :**
+
+- [The Unofficial Guide to Deluge (2023 Update)](https://www.rapidseedbox.com/kb/ultimate-deluge-guide)
+
+- [How To Use Deluge WebUI On Linux]
+(https://www.addictivetips.com/ubuntu-linux-tips/use-deluge-webui-on-linux/)
+
+- [How to create systemd services for Linux](https://deluge.readthedocs.io/en/latest/how-to/systemd-service.html)
+
+- [Deluge Web UI Dark Theme + Responsive Mobile UI](https://github.com/joelacus/deluge-web-dark-theme)
