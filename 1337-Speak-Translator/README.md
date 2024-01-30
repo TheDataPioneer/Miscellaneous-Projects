@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is my 1337 speak translator.  There are many like it, but this one is mine.
-There are many different ways use 1337 speak, and some letters can have tens of variations.
+There are many different ways to use 1337 speak, and some letters can have tens of variations.
 I created this translator to be able to quickly convert text into my style of 1337.
 
 ________________________________________________________________________________________________________________________________________
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 **Roadmap :**
 - [x] Character mapping and replacement function.
 - [x] Basic 1337 speak translation.
-- [ ] Intermediate 1337 speak translation.
+- [x] Intermediate 1337 speak translation.
 - [ ] Advanced 1337 speak translation.
 - [ ] Ultra 1337 speak translation.
 - [ ] 1337 speak to english translation.
@@ -53,4 +53,4 @@ ________________________________________________________________________________
 
 
 **MIT License**
-Copyright (c) 2024 [Joshua Paul Barnard](https://joshuapaulbarnard.github.io/1337-speak-translator/LICENSE).
+Copyright (c) 2024 [Joshua Paul Barnard](https://joshuapaulbarnard.github.io/Miscellaneous-Projects/1337-speak-translator/LICENSE).
