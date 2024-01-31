@@ -36,7 +36,7 @@ ________________________________________________________________________________
 - [x] Character mapping and replacement function.
 - [x] Basic 1337 speak translation.
 - [x] Intermediate 1337 speak translation.
-- [ ] Advanced 1337 speak translation.
+- [x] Advanced 1337 speak translation.
 - [ ] Ultra 1337 speak translation.
 - [ ] 1337 speak to english translation.
 - [ ] Support for Vocabulary, slang, suffix, and abbreviations.
