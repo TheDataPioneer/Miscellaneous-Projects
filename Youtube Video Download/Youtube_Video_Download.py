@@ -145,7 +145,7 @@ def download_video(url: str, download_dir: str, cookie_file: str = None) -> bool
 
 if __name__ == "__main__":
     # Input variables
-    video_url = "https://www.youtube.com/watch?v=admjE_WT0og"
+    video_url = "https://www.youtube.com/watch?v=CjzqT03SmGo"
     download_dir = r"C:\Users\Joshu\Videos"
     cookie_file = r"C:\Users\Joshu\OneDrive\Documents\cookies.txt"  
 
