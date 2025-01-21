@@ -145,7 +145,7 @@ if __name__ == "__main__":
     generate_qr_code(   
         data="https://example.com",
         save_directory="C:/",
-        filename="android_qrcode.png",
+        filename="qrcode.png",
         error_correction=qrcode.constants.ERROR_CORRECT_H,
         box_size=10,
         border=4,
