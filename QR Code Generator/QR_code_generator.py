@@ -1,14 +1,11 @@
 """
-===================================================
+============================================================================
 QR Code Generator Script with Center Image, Corner Image, and Text Overlay
-===================================================
+============================================================================
 
 HOW IT WORKS:
 -------------
-1. Install Dependencies:
-   - pip install qrcode Pillow
-
-2. This script generates a QR code from any text or URL
+1. This script generates a QR code from any text or URL
    with the following features:
    - Customizable error correction levels (L, M, Q, H).
    - Auto-size fitting (the version is determined automatically
@@ -17,13 +14,13 @@ HOW IT WORKS:
    - The ability to overlay a smaller image (logo) in the center
      of the QR code for branding or decoration.
 
-3. Error Correction Levels:
+2. Error Correction Levels:
    - qrcode.constants.ERROR_CORRECT_L: About 7% or less errors can be corrected.
    - qrcode.constants.ERROR_CORRECT_M: About 15% or less errors can be corrected.
    - qrcode.constants.ERROR_CORRECT_Q: About 25% or less errors can be corrected.
    - qrcode.constants.ERROR_CORRECT_H: About 30% or less errors can be corrected.
 
-4. Output:
+3. Output:
    - By default, the script saves the QR code image to 'qrcode.png' in the
      current directory.
    - You can specify a different directory and filename if you wish.
@@ -147,17 +144,17 @@ if __name__ == "__main__":
     # Example usage
     generate_qr_code(   
         data="https://example.com",
-        save_directory=r"C:\Documents\GitHub\Miscellaneous-Projects\QR Code Generator",
+        save_directory="C:/",
         filename="android_qrcode.png",
         error_correction=qrcode.constants.ERROR_CORRECT_H,
         box_size=10,
         border=4,
         fill_color="black",
         back_color="white",
-        logo_path=r"C:\Documents\GitHub\Miscellaneous-Projects\QR Code Generator\primary-logo.png",
-        corner_logo_path=r"C:\Documents\GitHub\Miscellaneous-Projects\QR Code Generator\secondary_logo.png",
+        logo_path="C:/primary-logo.png",
+        corner_logo_path="C:/secondary_logo.png",
         text=None,  # Set to None if you don't want text
-        text_font_path=r"C:\Windows\Fonts\arial.ttf",  # Update with your font path
+        text_font_path="C:/Windows/Fonts/arial.ttf",  # Update with your font path, if different
         text_size=20,
         text_color="blue"
     )
