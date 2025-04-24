@@ -143,16 +143,16 @@ def generate_qr_code(
 if __name__ == "__main__":
     # Example usage
     generate_qr_code(   
-        data="https://example.com",
-        save_directory="C:/",
-        filename="qrcode.png",
+        data="https://linktr.ee/TotallyTubularParty",
+        save_directory="D:/",
+        filename="qrcode-TotallyTubularParty.png",
         error_correction=qrcode.constants.ERROR_CORRECT_H,
         box_size=10,
         border=4,
         fill_color="black",
         back_color="white",
-        logo_path="C:/primary-logo.png",
-        corner_logo_path="C:/secondary_logo.png",
+        logo_path="C:/Users/Joshu/OneDrive/Pictures/90s.png",
+        corner_logo_path="C:/Users/Joshu/OneDrive/Pictures/Solo_Jazz_design.png",
         text=None,  # Set to None if you don't want text
         text_font_path="C:/Windows/Fonts/arial.ttf",  # Update with your font path, if different
         text_size=20,
